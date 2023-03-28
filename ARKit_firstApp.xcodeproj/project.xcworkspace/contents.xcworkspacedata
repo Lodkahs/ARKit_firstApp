@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/andrew/ioS_projs/ARKit_solarSystem/ARKit_firstApp.xcodeproj">
    </FileRef>
 </Workspace>

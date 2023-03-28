@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		491D121829D342D500BE32E1 /* ARKit_solarSystem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKit_solarSystem.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		491D121829D342D500BE32E1 /* ARKit_firstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKit_firstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		491D121B29D342D500BE32E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		491D121D29D342D500BE32E1 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		491D121F29D342D500BE32E1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,7 +47,7 @@
 		491D121929D342D500BE32E1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				491D121829D342D500BE32E1 /* ARKit_solarSystem.app */,
+				491D121829D342D500BE32E1 /* ARKit_firstApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -68,9 +68,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		491D121729D342D500BE32E1 /* ARKit_solarSystem */ = {
+		491D121729D342D500BE32E1 /* ARKit_firstApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 491D122B29D342D600BE32E1 /* Build configuration list for PBXNativeTarget "ARKit_solarSystem" */;
+			buildConfigurationList = 491D122B29D342D600BE32E1 /* Build configuration list for PBXNativeTarget "ARKit_firstApp" */;
 			buildPhases = (
 				491D121429D342D500BE32E1 /* Sources */,
 				491D121529D342D500BE32E1 /* Frameworks */,
@@ -80,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = ARKit_solarSystem;
+			name = ARKit_firstApp;
 			productName = ARKit_solarSystem;
-			productReference = 491D121829D342D500BE32E1 /* ARKit_solarSystem.app */;
+			productReference = 491D121829D342D500BE32E1 /* ARKit_firstApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 491D121329D342D500BE32E1 /* Build configuration list for PBXProject "ARKit_solarSystem" */;
+			buildConfigurationList = 491D121329D342D500BE32E1 /* Build configuration list for PBXProject "ARKit_firstApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				491D121729D342D500BE32E1 /* ARKit_solarSystem */,
+				491D121729D342D500BE32E1 /* ARKit_firstApp */,
 			);
 		};
 /* End PBXProject section */
@@ -341,7 +341,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		491D121329D342D500BE32E1 /* Build configuration list for PBXProject "ARKit_solarSystem" */ = {
+		491D121329D342D500BE32E1 /* Build configuration list for PBXProject "ARKit_firstApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				491D122929D342D600BE32E1 /* Debug */,
@@ -350,7 +350,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		491D122B29D342D600BE32E1 /* Build configuration list for PBXNativeTarget "ARKit_solarSystem" */ = {
+		491D122B29D342D600BE32E1 /* Build configuration list for PBXNativeTarget "ARKit_firstApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				491D122C29D342D600BE32E1 /* Debug */,
